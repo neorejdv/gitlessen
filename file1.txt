@@ -1,1 +1,5 @@
 Dit is file1
+en een extra regel
+
+.
+nog een regel
